@@ -1,1 +1,1 @@
-Credit goes to ChatGPT (2026) for modifying the existing remove_noise.m Matlab function which I created in 2017. This Matlab file can be found in a number of repositories: cv_syllables, landmarks_eeg, and phoneme_continuous. Professional disclaimers will ensure.
+Credit goes to ChatGPT (2026) for modifying the existing remove_noise.m Matlab function which I created in 2017. The original Matlab file can be found in a number of repositories: cv_syllables, landmarks_eeg, and phoneme_continuous. Professional disclaimers will ensure.
